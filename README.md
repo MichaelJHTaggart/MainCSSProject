@@ -1,5 +1,11 @@
 # MainCSSProject
 
+
+
+# Model for what website should look like:
+
+<img width="614" alt="Screen Shot 2022-07-10 at 8 34 43 PM" src="https://user-images.githubusercontent.com/63270278/178641782-397514ef-b34a-41fb-8dd7-23637e794c48.png">
+
 ## Styles
 
 - Hero and Footer
